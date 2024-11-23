@@ -14,3 +14,4 @@
 4. **Objective**: Clear the path to allow the red car to exit the board.  
 
 This classic logic game challenges players to think critically and solve puzzles of increasing difficulty!
+![Rush Hour Example](/Users/senghok/Desktop/Rushhours)
