@@ -1,1 +1,1 @@
-Battle is a card game between two players. At the start of each game, the 52 cards in the game are randomly separated into two decks of the same size allocated to each of the two opponents. The outcome of a game is entirely determined by the initial distribution of the cards: the goal of this tutorial is to write a program that shuffles the cards, simulates the progress of the game, and indicates the winner (the “draw” is possible).
+
